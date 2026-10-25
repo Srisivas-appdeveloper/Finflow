@@ -1,7 +1,7 @@
 # Google Play store listing: FinFlow
 
 Copy these into Play Console > Grow > Store presence > Main store listing.
-Character limits are Play's; lengths were checked with a script (name 24, short 78, full ~1880).
+Character limits are Play's; lengths were checked with a script (name 24, short 78, full 1867).
 
 ## App name (max 30)
 
@@ -9,12 +9,14 @@ FinFlow: Expense Tracker
 
 ## Short description (max 80)
 
-Track spending, credit card bills and EMIs. Private, on-device, no bank login.
+Track spending, split bills with roommates, and never miss a card bill or EMI.
 
 ## Full description (max 4000)
 
-FinFlow is a beautifully simple way to see where your money goes, and to stay
-on top of credit card bills and EMIs, without handing your data to anyone.
+Paste exactly as below (one line per bullet).
+
+```text
+FinFlow is a beautifully simple way to see where your money goes, and to stay on top of credit card bills and EMIs, without handing your data to anyone.
 
 TRACK EVERY RUPEE
 • Add spending and income in seconds: amount, payee, category, date
@@ -29,32 +31,26 @@ SPLIT WITH ROOMMATES AND FRIENDS
 • Make a group for your hostel room, flat or trip
 • Add who paid and split equally, by amount or by shares
 • See who owes whom and the fewest payments to settle up
-• Only your share counts as your spending, so you see what is really left
-  to save or invest each month
+• Only your share counts as your spending, so you see what is really left to save or invest each month
 • Share a summary with the group in one tap
 
 CREDIT CARDS, BILLS AND EMIS
 • Add your cards with their credit limit, statement day and due day
-• Enter each statement's total and minimum due; FinFlow shows what's due
-  next and flags anything overdue
-• Record payments: paying a card bill settles what you owe and is never
-  counted as new spending, so your totals stay honest
+• Enter each statement's total and minimum due; FinFlow shows what's due next and flags anything overdue
+• Record payments: paying a card bill settles what you owe and is never counted as new spending, so your totals stay honest
 • Track EMIs: instalments paid so far, what's left and the next due date
 • Optional reminders 3 days before and on the due date
 
 PRIVATE BY DESIGN
-• Everything stays on your phone. FinFlow has no account, no servers and no
-  internet access
+• Everything stays on your phone. FinFlow has no account, no servers and no internet access
 • No bank login, no SMS or email reading, no ads, no tracking
-• Export your transactions as a CSV whenever you want, or delete everything
-  with one tap
+• Export your transactions as a CSV whenever you want, or delete everything with one tap
 
 DESIGNED TO FEEL GOOD
 • Light and dark themes, smooth animations and a calm glass design
 
-FinFlow does not connect to banks or card issuers: amounts and due dates are
-the ones you enter. It is a personal tracking tool and does not provide
-financial advice, payments or credit.
+FinFlow does not connect to banks or card issuers: amounts and due dates are the ones you enter. It is a personal tracking tool and does not provide financial advice, payments or credit.
+```
 
 ## Category and tags
 
