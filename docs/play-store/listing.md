@@ -63,7 +63,7 @@ financial advice, payments or credit.
 
 ## Contact details (required)
 
-- Email: **[YOUR SUPPORT EMAIL]**
+- Email: srisivas362@gmail.com
 - Website: optional
 - Privacy policy URL: https://srisivas-appdeveloper.github.io/finflow-privacy/
   (GitHub Pages, repo `Srisivas-appdeveloper/finflow-privacy`; to update, run

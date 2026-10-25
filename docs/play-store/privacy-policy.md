@@ -65,5 +65,4 @@ about you.
 
 ## Contact
 
-Questions about this policy: contact Kalainova using the developer email
-shown on FinFlow's Google Play store page.
+Questions about this policy: **srisivas362@gmail.com**
