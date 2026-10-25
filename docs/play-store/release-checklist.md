@@ -85,7 +85,7 @@ from obfuscated builds.
 
 ## Still to do before production
 
-- Support email: srisivas362@gmail.com (in the policy and `listing.md`).
+- Support email: info@kalainovainfotech.com (in the policy and `listing.md`).
 - Privacy policy is live at
   https://srisivas-appdeveloper.github.io/finflow-privacy/ (enter it in the
   listing and in App content > Privacy policy).

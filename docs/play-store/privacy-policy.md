@@ -65,4 +65,4 @@ about you.
 
 ## Contact
 
-Questions about this policy: **srisivas362@gmail.com**
+Questions about this policy: **info@kalainovainfotech.com**
